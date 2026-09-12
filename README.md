@@ -37,8 +37,8 @@
 
 ```bash
 # ۱) دریافت پروژه
-git clone https://github.com/shadowacadmey/Osint_tool.git
-cd Osint_tool
+git clone https://github.com/shadowacadmey/OSINT-SEARCHER.git
+cd OSINT-SEARCHER
 
 # ۲) نصب وابستگی‌ها (فقط requests)
 pip install -r requirements.txt
