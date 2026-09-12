@@ -35,8 +35,8 @@
 
 ```bash
 # ۱) دریافت پروژه
-git clone https://github.com/USERNAME/REPO_NAME.git
-cd REPO_NAME
+git clone https://github.com/shadowacadmey/Osint_tool.git
+cd Osint_tool
 
 # ۲) نصب وابستگی‌ها (فقط requests)
 pip install -r requirements.txt
